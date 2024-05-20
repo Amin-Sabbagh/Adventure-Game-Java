@@ -6,7 +6,7 @@ The project involved creating a game using Java and the Processing framework. Th
 
 ### Features of the Game
 
-- **Object-Oriented Design:** Utilizes classes and objects to encapsulate game entities and logic.
+- **Object-Oriented Design:** Utilizes classes and objects to encapsulate game entities and logic. Mainily through Classes & Polymorphism.
 - **Animation:** Smooth animations for game characters and environment.
 - **User Interaction:** Responds to user inputs for controlling game actions.
 - **Game Mechanics:** Includes scoring, levels, and game-over conditions.
