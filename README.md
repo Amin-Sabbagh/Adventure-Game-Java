@@ -17,6 +17,3 @@ The project involved creating a game using Java and the Processing framework. Th
 - **Java:** The primary programming language used for the project.
 - **Processing:** A flexible software sketchbook and a language for learning how to code within the context of the visual arts.
 
-## Project Structure
-
-The project is organized into the following structure:
